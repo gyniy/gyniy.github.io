@@ -17,4 +17,4 @@ My research mainly focuses on **computer vision**, including:
 
 I am dedicated to designing **practical visual algorithms** to improve image quality in complex scenes.  
 
-You can find more about my work and publications on my [GitHub](https://github.com/yourusername).
+

@@ -1,2 +1,13 @@
-I am Yanan Guo, a postgraduate student majoring in Artificial Intelligence at Beijing University of Posts and Telecommunications. I received my bachelor’s degree from the School of Mathematics and Computational Science, Xiangtan University.
-My current research focuses on low-light image enhancement and image restoration. I am devoted to exploring efficient visual algorithms to improve the visual quality of degraded images, and I keep learning and practicing in the field of computer vision.
+---
+permalink: /about/
+title: "About Me"
+author_profile: true
+---
+
+# About Me
+
+I am Yanan Guo, a master student at the School of Artificial Intelligence, Beijing University of Posts and Telecommunications.
+
+I earned my bachelor’s degree from the School of Mathematics and Computational Science, Xiangtan University.
+
+My research mainly focuses on computer vision, including low-light image enhancement and image restoration. I am dedicated to designing practical visual algorithms to improve image quality in complex scenes.
